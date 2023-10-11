@@ -1,10 +1,26 @@
 # NIM-App-NIM-AuditApp
 
 # Description
-This is an NIM App that provides views for Creates, Updates, and Deletes based on data from the internal audit logging of NIM.
+This is an NIM App that provides ability to look up audit logs in the following ways
+* Person Logging
+    * Select from a list of AD Users with Employee ID to see all the AD User account audit logs for that selected user.
+* Search Logs
+    * Select an account from a list of objects in the audit log, then review the attribute and group changes
+* Recent Logs
+    * See all the recent attribute and group logs from the last 24 hours
 
 # Screenshots
-![image](https://user-images.githubusercontent.com/24281600/197823035-35f354f3-b63c-46f8-b282-4c9442db9fc7.png)
+Person Logging
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/41fe7e5e-f09c-4ee7-b0bd-5d5d48918a23)
+
+
+Search Logs
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/f75acd85-6979-4f97-bf65-6ecf196b3bd6)
+
+
+Recent Logs
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/73ed808b-f82a-4243-a96c-01d25d7bbf55)
+
 
 
 # NIM Docs
