@@ -13,17 +13,25 @@ This is an NIM App that provides ability to look up audit logs in the following 
 
 # Screenshots
 Person Logging
-![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/41fe7e5e-f09c-4ee7-b0bd-5d5d48918a23)
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/5b7e79a7-b3da-4169-bc58-6200a53f5c58)
+
 
 
 Search Logs
-![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/f75acd85-6979-4f97-bf65-6ecf196b3bd6)
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/0c0ab7cb-8b69-486a-8460-3456b655ecc8)
+
 
 
 Recent Logs
-![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/73ed808b-f82a-4243-a96c-01d25d7bbf55)
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/beaf337a-e3c5-4ac2-bd35-55aab9ab95ad)
+
+
 
 Actor Logs
+![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/4d6d2b91-aa50-4837-aff4-dc0e3b5415c9)
+
+
+
 
 # NIM Docs
 The official NIM documentation can be found at: https://docs.nimsuite.com
