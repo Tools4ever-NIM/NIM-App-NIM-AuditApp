@@ -8,6 +8,8 @@ This is an NIM App that provides ability to look up audit logs in the following 
     * Select an account from a list of objects in the audit log, then review the attribute and group changes
 * Recent Logs
     * See all the recent attribute and group logs from the last 24 hours
+* Actor Logs
+	* See all changes by specific actor for last 30 days
 
 # Screenshots
 Person Logging
@@ -21,7 +23,7 @@ Search Logs
 Recent Logs
 ![image](https://github.com/Tools4ever-NIM/NIM-App-NIM-AuditApp/assets/24281600/73ed808b-f82a-4243-a96c-01d25d7bbf55)
 
-
+Actor Logs
 
 # NIM Docs
 The official NIM documentation can be found at: https://docs.nimsuite.com
