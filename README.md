@@ -15,12 +15,15 @@ This is an NIM App that provides ability to look up audit logs in the following 
         * Membership Activity
         * Session Activity
         * Apps Activity
+        * Reources Activity
 * Apps
 	* Determine activity for apps
         * Session Activity
         * Action Activity
         * Error Activity
         * Permission Activity
+* Resources
+    * Review change activity for resources 
 * Recent Logs
     * Attribute Activity for last 24 hours
     * Membership Activity for last 24 hours
