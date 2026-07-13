@@ -1,4 +1,4 @@
-# Audit App
+# Audit Logs
 
 # Description
 This is an NIM App that provides ability to look up audit logs in the following ways
