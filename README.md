@@ -35,7 +35,7 @@ This is an NIM App that provides ability to look up audit logs in the following 
     	* Based on Period Dropdown selection
 
 # Prerequisites
-- [Tools4ever Standard Items Library](https://github.com/Tools4ever-NIM/NIM-Framework-ItemLibrary)
+- [Tools4ever Standard Item Library](https://github.com/Tools4ever-NIM/NIM-Framework-ItemLibrary)
 
 # Installation
 - Download app.json source file
