@@ -39,7 +39,12 @@ This is an NIM App that provides ability to look up audit logs in the following 
 
 # Installation
 - Download app.json source file
-- Within NIM, go to Apps > Import > Select app.json downloaded file > Complete Import
+- Within NIM
+- 	Go to Apps
+- 	Click Import
+- 	Select app.json
+-	Create each missing audit query
+- 	Complete Import
 
 # Screenshots
 <img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/8082b7f6-945b-4535-ad2a-b1a67bef0243" />
