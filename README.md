@@ -1,7 +1,8 @@
-# NIM-App-NIM-AuditApp
+# Audit App
 
 # Description
 This is an NIM App that provides ability to look up audit logs in the following ways
+
 * Objects
     * Review all the objects NIM has touched.
         * Attribute Activity
@@ -21,7 +22,11 @@ This is an NIM App that provides ability to look up audit logs in the following 
         * Session Activity
         * Action Activity
         * Error Activity
-        * Permission Activity 
+        * Permission Activity
+* Resources
+    * Action Activity
+    * Session Activity
+    * Resource Activity
 * Recent Logs
     * Activity - Review Activity of a specified type over a specified period of time
 		* Based on View Dropdown selection
@@ -29,26 +34,58 @@ This is an NIM App that provides ability to look up audit logs in the following 
     * Membership Activity
     	* Based on Period Dropdown selection
 
+# Prerequisites
+- Tools4ever Standard Items Library
+
 # Installation
-- Download AuditLogs source file
-- Within NIM, go to Apps > Import > Select AuditLogs downloaded file > Complete Import
+- Download app.json source file
+- Within NIM, go to Apps > Import > Select app.json downloaded file > Complete Import
 
 # Screenshots
-<img width="1920" height="917" alt="Objects" src="https://github.com/user-attachments/assets/000cb5a2-182e-4a18-808c-de5cb6240222" />
-<img width="1920" height="915" alt="Objects_ViewNavigation" src="https://github.com/user-attachments/assets/550b6770-88bf-4058-be51-1be050f80887" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/8082b7f6-945b-4535-ad2a-b1a67bef0243" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/077740a4-a83e-40bb-a607-4f9186ef9479" />
 
-<img width="1920" height="920" alt="Attributes" src="https://github.com/user-attachments/assets/a513dafd-df7f-4d48-8d13-07df391b64ed" />
-<img width="1920" height="916" alt="Attributes_ViewNavigation" src="https://github.com/user-attachments/assets/d5d40d44-8b1b-403b-8a7c-ec9eb7f33bd9" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/89153cdd-5477-4e32-a26a-1ba40effe2be" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/39f31aac-3cd6-455c-bda9-d1dbf9a04195" />
 
-<img width="1920" height="919" alt="Actors" src="https://github.com/user-attachments/assets/feddcb6c-3512-4134-bdaf-b4a609e09d65" />
-<img width="1920" height="919" alt="Actors_ViewNavigation" src="https://github.com/user-attachments/assets/a2821d13-0e1b-447e-a5a7-1835e6e645cc" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/643de081-a2f0-4cb1-806c-cf1d8455f2ae" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/628970ad-0e9f-432d-9ce3-a67841ca4c99" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/31555caf-a5d5-4475-88f3-e734c8821323" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/77193fe8-58f0-4675-ad5a-962dbe42bfa8" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/bf86efa7-31d3-41af-85f7-5bfce46a60cd" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/fd394712-ad9d-4f2a-8fb6-eec68f7c56ce" />
 
-<img width="1920" height="917" alt="Apps" src="https://github.com/user-attachments/assets/a624d3be-4604-4950-97df-062ba71382a1" />
-<img width="1920" height="915" alt="Apps_ViewNavigation" src="https://github.com/user-attachments/assets/1a3d4eb2-415b-465e-a9fe-62fc9f88ee1d" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/3089e3c3-4d3e-41ab-a7c2-ae37dddf2cc2" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/10ddc830-628e-425a-b4de-27a513ad8a73" />
+<img width="2240" height="1102" alt="image" src="https://github.com/user-attachments/assets/a5ece4e8-164f-4489-b42c-79a46c7b2d48" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/ea786aa2-8f9a-402e-8d07-b59f7a94419a" />
 
-<img width="1920" height="922" alt="RecentLogs" src="https://github.com/user-attachments/assets/a1f31589-4111-46ff-b7f8-c4963f328a71" />
-<img width="1920" height="924" alt="RecentLogs_ViewDD" src="https://github.com/user-attachments/assets/7ae5592e-959b-4763-a300-ff7f5278f8dc" />
-<img width="1920" height="919" alt="RecentLogs_PeriodDD" src="https://github.com/user-attachments/assets/8781312f-4e32-4825-bf73-f9a3c12a28cb" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/9ace1953-d1f0-4c41-b770-4dbb91d70a0c" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/06ce958d-e7df-426c-9c77-ef694f259cf8" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/b5fe833f-aeaa-4b57-8057-b150804c77e3" />
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/5d60ec28-9526-48d9-8a99-420e3378cec1" />
+
+<img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/503d0f27-8750-4718-abf0-dfd15577e343" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
