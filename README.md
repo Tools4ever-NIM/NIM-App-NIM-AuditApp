@@ -45,6 +45,7 @@ This is an NIM App that provides ability to look up audit logs in the following 
 - 	Select app.json
 -	Create each missing audit query
 - 	Complete Import
+- 	Under Apps, Uncheck "Exportable" if checked
 
 # Screenshots
 <img width="2240" height="1100" alt="image" src="https://github.com/user-attachments/assets/8082b7f6-945b-4535-ad2a-b1a67bef0243" />
